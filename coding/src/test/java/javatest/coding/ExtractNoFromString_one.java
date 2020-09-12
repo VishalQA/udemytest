@@ -4,7 +4,7 @@ package javatest.coding;
 		
 		//Java program to calculate sum of all numbers present  
 		//in a string containing alphanumeric characters  
-		class ExtractNoFromString
+		class ExtractNoFromString_one
 		{ 
 		   
 		 // Function to calculate sum of all numbers present  
@@ -48,8 +48,7 @@ package javatest.coding;
 		 { 
 		       
 		     // input alphanumeric string  
-		     String str = "123abc456dfc789";  
-		   
+		     String str = "ank1tr23cbdf456try7890ts";		   
 		     System.out.println(findSum(str)); 
 		 } 
 		

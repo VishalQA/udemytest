@@ -1,7 +1,7 @@
 package javatest.coding;
 
 import java.util.*;
-public class  Pallindrometestcorrect {
+public class  Two_trial2_final {
 
   public static void main(String args[])
   {

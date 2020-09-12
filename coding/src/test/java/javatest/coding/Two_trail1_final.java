@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Trial1 {
+public class Two_trail1_final {
 
 	// An efficient Java program to remove all spaces 
 	// from a string 
@@ -102,7 +102,7 @@ public class Trial1 {
 	    System.out.println(CharSequence);
 	   
 //	    printAllPalindromes( CharSequence);
-	    System.out.println(printAllPalindromes( CharSequence));
+//	    System.out.println(printAllPalindromes( CharSequence));
 	} 
 	}  
 	  

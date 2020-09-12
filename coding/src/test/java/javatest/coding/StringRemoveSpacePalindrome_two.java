@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
-public class StringRemoveSpacePalindrome {
+public class StringRemoveSpacePalindrome_two {
 
 	// An efficient Java program to remove all spaces 
 	// from a string 
